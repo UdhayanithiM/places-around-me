@@ -207,6 +207,8 @@ college.html
 
 
 ## Output:
+![map2](https://user-images.githubusercontent.com/127933352/233781457-3e8402c9-a24e-40aa-b2a4-bb6e27cbdc76.png)
+
 ![output](./screenshots/bus.png)
 
 ![output](./screenshots/college.png)
